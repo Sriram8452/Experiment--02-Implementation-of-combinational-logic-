@@ -38,10 +38,13 @@ endmodule
 ```
 ## Output:
 ## RTL
-![model](1.png)
+![1](https://github.com/Sriram8452/Experiment--02-Implementation-of-combinational-logic-/assets/118708032/8126d148-2994-4635-af11-af3f3868509b)
+
 ## Truth Table
-![model](2.png)
+![2](https://github.com/Sriram8452/Experiment--02-Implementation-of-combinational-logic-/assets/118708032/3a3e0e8c-d18e-410e-84b6-ed6ddfc1b0ab)
+
 ## Timing Diagram
-![model](3.png)
+![3](https://github.com/Sriram8452/Experiment--02-Implementation-of-combinational-logic-/assets/118708032/5b4efcc0-aad7-4608-938c-d34940cf1d23)
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
