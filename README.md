@@ -15,9 +15,6 @@ F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 ## Theory
  Logic gates are electronic circuits which perform logical functions on one or more inputs to produce one output.
 
-
-## Logic Diagram
-## Procedure
 ## Program:
 Developed by: Sriram G
 RegisterNumber: 212222230149 
